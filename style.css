@@ -8,10 +8,7 @@
 {
 
 width: 900px;
-padding-top: 24px;
-padding-bottom: 24px;
-padding-right: 24px;
-padding-left: 24px;
+padding: 24px;
 margin: 28px auto;
 padding: 24px;
 background-color: #F0E8C2;
@@ -25,10 +22,9 @@ img{
  main{
     height: 968px;
     width: 752px;
-    padding-left: 24px;
-    padding-right: 24px;
-    padding-bottom: 24px;
     padding: 24px;
+    gap: 24px;
+    display: grid;
  }
 
  #about{
