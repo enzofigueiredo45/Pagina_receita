@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#page
+{
+
+width: 900px;
+padding-top: 24px;
+padding-bottom: 24px;
+padding-right: 24px;
+padding-left: 24px;
+margin: 28px auto;
+padding: 24px;
+background-color: #F0E8C2;
+border-radius: 24px;
+}
+
+img{
+    border-radius: 16px;
+}
+
+ main{
+    height: 968px;
+    width: 752px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 24px;
+    padding: 24px;
+ }
+
+ #about{
+    width: 704px;
+    height: 192px;
+    align-content: left;
+ }
+
+ #about h1{
+    font-family: "Alice";
+    container: about;
+    font-size: 40px;
+    line-height: 140%;
+    letter-spacing: 0px;
+    width: 539px;
+    height: 56px;
+    text-align: left;
+    color: #291b1a;
+    
+ }
+ #info p{
+    width: 704px;
+    height: 48px;
+    resize: auto;
+    font-family: "Alice";
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #573a37;
+ }
+ #info p1{
+    width: 704px;
+    height: 72px;
+    resize: auto;
+    font-family: "Alice";
+    font-size: 16px;
+    line-height: 150%; 
+    letter-spacing: 0px;
+    text-align: left;
+    color: #573a37;
+    margin-bottom: 24px;
+ }
+    
+    #ingredients{
+        width: 704px;
+        height: 376px;
+        align-content: left;
+    }
+
+    #ingredients h1{
+        width: 704px;
+        height: 36px;
+        resize: auto;
+        font-family: "Alice";
+        font-size: 24px;
+        line-height: 150%;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #291b1a;
+    }
+
+    #ingredients ul{
+        width: 704px;
+        height: 336px;
+        resize: auto;
+        font-family: "Alice";
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #573a37;
+        list-style-position: inside;
+    }
+
+    #preparation{
+        width: 704px;
+        height: 328px;
+        align-content: left;
+    }
+
+    #preparation h1{
+        width: 704px;
+        height: 36px;
+        resize: auto;
+        font-family: "Alice";
+        font-size: 24px;
+        line-height: 150%;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #291b1a;
+    }
+
+    #preparation p{
+        width: 704px;
+        height: 288px;
+        resize: auto;
+        font-family: "Alice";
+        font-size: 16px;
+        line-height: 150%;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #573a37;
+    }
+
+    #body{
+        background-image: url(/img_cupcake.jpg);
+        width: 1280px;
+        height: 1588px;
+        filter: blur(10px);
+    }
+
+    
