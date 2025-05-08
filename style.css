@@ -43,6 +43,7 @@ img{
     height: 56px;
     text-align: left;
     color: #291b1a;
+    margin-bottom: 4px;
     
  }
  #info p{
@@ -85,6 +86,7 @@ img{
         letter-spacing: 0px;
         text-align: left;
         color: #291b1a;
+        margin-bottom: 4px;
     }
 
     #ingredients ul{
@@ -116,6 +118,7 @@ img{
         letter-spacing: 0px;
         text-align: left;
         color: #291b1a;
+        margin-bottom: 4px;
     }
 
     #preparation p{
@@ -130,11 +133,6 @@ img{
         color: #573a37;
     }
 
-    #body{
-        background-image: url(/img_cupcake.jpg);
-        width: 1280px;
-        height: 1588px;
-        filter: blur(10px);
-    }
+    
 
     
